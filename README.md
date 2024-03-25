@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi , I'm Chanuka Kavinda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -17,7 +18,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chanuka-kavinda-6ba7732bb/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" /></a>
 
 <a href="https://instagram.com/https://www.instagram.com/chanu_kavinda?igsh=MXZvM2VjZXNndTNoYQ==)" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="50" width="50" /></a>
@@ -34,12 +35,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaKavinda&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChanukaKavinda&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+<p align="left"> <a href="https://github.com/chanuka-kavinda/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukakavinda&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 ---
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ChanukaKavinda}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+------
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
