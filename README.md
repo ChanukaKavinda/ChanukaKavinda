@@ -1,26 +1,23 @@
-<!-- ══════════════════ HEADER ══════════════════ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0D1117,35:2BE8B0,70:4A63FF,100:FF5C8A&text=Chanuka%20Kavinda&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Active%20Learner%20%2F%20Researcher&descSize=17&descAlignY=58&section=header" width="100%" alt="Chanuka Kavinda">
+
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Chanuka Kavinda — Software Engineering Student">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2BE8B0&center=true&vCenter=true&width=700&height=55&lines=Learning+Full-stack+Development;Software+Engineering+Student;Active+Learner+%2F+Researcher;Love+to+learn+new+stuff..." alt="Typing intro">
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2BE8B0&center=true&vCenter=true&width=700&height=60&lines=Learning+Full-stack+Development;Software+Engineering+Student;Active+Learner+%2F+Researcher;Love+to+learn+new+stuff..." alt="Typing intro">
-  </a>
+  <img src="https://img.shields.io/badge/Full--stack-2BE8B0?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Software%20Engineering-4A63FF?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Sri%20Lanka-FF5C8A?style=for-the-badge&labelColor=0D1117">
+  <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=2BE8B0&style=for-the-badge&label=VIEWS">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=2BE8B0&style=flat-square&label=Profile+views">
-  <img src="https://img.shields.io/badge/Focus-Full--stack-4A63FF?style=flat-square">
-  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-FF5C8A?style=flat-square">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:2BE8B0,60:4A63FF,90:FF5C8A,100:0D1117" width="100%">
 
-<img src="assets/divider.svg" width="100%">
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0D1117,45:14424C,100:2BE8B0&text=About%20me&fontSize=30&fontColor=EAF6F5&fontAlign=13&fontAlignY=52" width="100%" alt="About me">
 
-<!-- ══════════════════ ABOUT ══════════════════ -->
-<p align="center"><img src="assets/section-about.svg" width="86%" alt="About me"></p>
-
-<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding">
+<img align="right" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding">
 
 - 🔭 &nbsp;Currently working on **full-stack development** projects
 - 🌱 &nbsp;Currently learning **software engineering** practices
@@ -31,20 +28,20 @@
 
 <br clear="right">
 
-<img src="assets/divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:2BE8B0,60:4A63FF,90:FF5C8A,100:0D1117" width="100%">
 
-<!-- ══════════════════ SKILLS ══════════════════ -->
-<p align="center"><img src="assets/section-skills.svg" width="86%" alt="Skills and tools"></p>
+<!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0D1117,45:1B2A6B,100:4A63FF&text=Skills%20%26%20Tools&fontSize=30&fontColor=EAF6F5&fontAlign=15&fontAlignY=52" width="100%" alt="Skills and tools">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&theme=dark" alt="Web stack"><br>
   <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&theme=dark" alt="Languages and tools">
 </p>
 
-<img src="assets/divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:2BE8B0,60:4A63FF,90:FF5C8A,100:0D1117" width="100%">
 
-<!-- ══════════════════ STATS ══════════════════ -->
-<p align="center"><img src="assets/section-stats.svg" width="86%" alt="GitHub stats"></p>
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0D1117,45:5C1F3C,100:FF5C8A&text=GitHub%20Stats&fontSize=30&fontColor=EAF6F5&fontAlign=15&fontAlignY=52" width="100%" alt="GitHub stats">
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChanukaKavinda&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2BE8B0&text_color=A6C6CA&icon_color=4A63FF" alt="GitHub stats">
@@ -59,33 +56,31 @@
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanukaKavinda&bg_color=00000000&color=EAF6F5&line=2BE8B0&point=FF5C8A&area=true&area_color=4A63FF&hide_border=true" alt="Contribution graph">
 </p>
 
-<img src="assets/divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:2BE8B0,60:4A63FF,90:FF5C8A,100:0D1117" width="100%">
 
-<!-- ══════════════════ TROPHIES ══════════════════ -->
-<p align="center"><img src="assets/section-trophies.svg" width="86%" alt="Trophies"></p>
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0D1117,45:14424C,100:2BE8B0&text=Trophies&fontSize=30&fontColor=EAF6F5&fontAlign=12&fontAlignY=52" width="100%" alt="Trophies">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChanukaKavinda&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies">
 </p>
 
-<img src="assets/divider.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,25:2BE8B0,60:4A63FF,90:FF5C8A,100:0D1117" width="100%">
 
-<!-- ══════════════════ CONNECT ══════════════════ -->
-<p align="center"><img src="assets/section-connect.svg" width="86%" alt="Let's connect"></p>
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0D1117,45:1B2A6B,100:4A63FF&text=Let%27s%20Connect&fontSize=30&fontColor=EAF6F5&fontAlign=15&fontAlignY=52" width="100%" alt="Let's connect">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanuka-kavinda-6ba7732bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/chanu_kavinda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram">
   </a>
   <a href="https://github.com/ChanukaKavinda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub">
   </a>
 </p>
 
-<!-- ══════════════════ FOOTER ══════════════════ -->
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by">
-</p>
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF5C8A,50:4A63FF,100:2BE8B0&text=Thanks%20for%20stopping%20by&fontSize=26&fontColor=FFFFFF&fontAlignY=68&desc=BUILD%20%C2%B7%20BREAK%20%C2%B7%20LEARN%20%C2%B7%20REPEAT&descSize=13&descAlignY=86&section=footer" width="100%" alt="Thanks for stopping by">
