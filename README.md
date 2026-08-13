@@ -1,7 +1,8 @@
-<img src="glass-header.svg" width="100%" alt="Chanuka Kavinda — software engineering student">
+<!-- ═════════════════════════ HEADER ═════════════════════════ -->
+<img src="assets/header.svg" width="100%" alt="Chanuka Kavinda — software engineering student">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3AE7FF&center=true&vCenter=true&width=720&height=50&lines=software+engineering+student;learning+full-stack+development;active+learner+%2F+researcher;love+to+learn+new+stuff..." alt="typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3AE7FF&center=true&vCenter=true&width=720&height=50&lines=learning+full-stack+development;software+engineering+student;active+learner+%2F+researcher;love+to+learn+new+stuff..." alt="typing intro">
 </p>
 
 <p align="center">
@@ -9,11 +10,12 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&theme=dark" alt="languages and tools">
 </p>
 
----
+<img src="assets/divider.svg" width="100%">
 
-<img src="https://img.shields.io/badge/%23%23%20%20about%20me-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="about me">
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
+<img src="assets/bar-about.svg" width="100%" alt="about me">
 
-<img align="right" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding">
+<img align="right" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding">
 
 - 🔭 &nbsp;Currently working on **full-stack development** projects
 - 🌱 &nbsp;Currently learning **software engineering** practices
@@ -24,9 +26,10 @@
 
 <br clear="right">
 
----
+<img src="assets/divider.svg" width="100%">
 
-<img src="https://img.shields.io/badge/%23%23%20%20github%20stats-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="github stats">
+<!-- ═════════════════════════ STATS ═════════════════════════ -->
+<img src="assets/bar-stats.svg" width="100%" alt="github stats">
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChanukaKavinda&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3AE7FF&text_color=7FA6B8&icon_color=B14BFF" alt="github stats">
@@ -41,35 +44,32 @@
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanukaKavinda&bg_color=00000000&color=E8F6FF&line=3AE7FF&point=B14BFF&area=true&area_color=1B6BFF&hide_border=true" alt="contribution graph">
 </p>
 
----
+<img src="assets/divider.svg" width="100%">
 
-<img src="https://img.shields.io/badge/%23%23%20%20trophies-05060F?style=for-the-badge&logo=gnubash&logoColor=B14BFF" alt="trophies">
+<!-- ═════════════════════════ TROPHIES ═════════════════════════ -->
+<img src="assets/bar-trophies.svg" width="100%" alt="trophies">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChanukaKavinda&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies">
 </p>
 
----
+<img src="assets/divider.svg" width="100%">
 
-<img src="https://img.shields.io/badge/%23%23%20%20let%27s%20connect-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="let's connect">
+<!-- ═════════════════════════ CONNECT ═════════════════════════ -->
+<img src="assets/bar-connect.svg" width="100%" alt="let's connect">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanuka-kavinda-6ba7732bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05060F?style=for-the-badge&logo=linkedin&logoColor=3AE7FF" alt="linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-3AE7FF?style=for-the-badge&logo=linkedin&logoColor=05060F&labelColor=05060F&color=3AE7FF" alt="linkedin">
   </a>
   <a href="https://www.instagram.com/chanu_kavinda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-05060F?style=for-the-badge&logo=instagram&logoColor=B14BFF" alt="instagram">
+    <img src="https://img.shields.io/badge/Instagram-B14BFF?style=for-the-badge&logo=instagram&logoColor=05060F&labelColor=05060F&color=B14BFF" alt="instagram">
   </a>
   <a href="https://github.com/ChanukaKavinda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-05060F?style=for-the-badge&logo=github&logoColor=E8F6FF" alt="github">
+    <img src="https://img.shields.io/badge/GitHub-E8F6FF?style=for-the-badge&logo=github&logoColor=05060F&labelColor=05060F&color=E8F6FF" alt="github">
   </a>
   <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=1B6BFF&style=for-the-badge&label=VIEWS">
 </p>
 
-```console
-chanuka@github:~$ echo "thanks for stopping by"
-thanks for stopping by
-
-chanuka@github:~$ exit
-> build · break · learn · repeat
-```
+<!-- ═════════════════════════ FOOTER ═════════════════════════ -->
+<img src="assets/footer.svg" width="100%" alt="thanks for stopping by">
