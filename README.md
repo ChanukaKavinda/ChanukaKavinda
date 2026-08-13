@@ -1,26 +1,12 @@
-<h1 align="center">Chanuka Kavinda</h1>
+<img src="glass-header.svg" width="100%" alt="Chanuka Kavinda — software engineering student">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3AE7FF&center=true&vCenter=true&width=720&height=50&lines=software+engineering+student;learning+full-stack+development;active+learner+%2F+researcher;love+to+learn+new+stuff..." alt="typing intro">
 </p>
 
-```console
-chanuka@github:~$ whoami
-Chanuka Kavinda — software engineering student, Sri Lanka
-
-chanuka@github:~$ cat stack.txt
-front-end   html · css · javascript · bootstrap
-back-end    php · mysql · java
-also using  python · c · git
-
-chanuka@github:~$ _
-```
-
 <p align="center">
-  <img src="https://img.shields.io/badge/full--stack-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF">
-  <img src="https://img.shields.io/badge/software%20engineering-05060F?style=for-the-badge&logo=gnubash&logoColor=B14BFF">
-  <img src="https://img.shields.io/badge/sri%20lanka-05060F?style=for-the-badge&logo=gnubash&logoColor=1B6BFF">
-  <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=1B6BFF&style=for-the-badge&label=VIEWS">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&theme=dark" alt="web stack"><br>
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&theme=dark" alt="languages and tools">
 </p>
 
 ---
@@ -37,15 +23,6 @@ chanuka@github:~$ _
 - ⚡ &nbsp;Fun fact — I'm a self-taught learner who figures things out by building
 
 <br clear="right">
-
----
-
-<img src="https://img.shields.io/badge/%23%23%20%20skills%20%26%20tools-05060F?style=for-the-badge&logo=gnubash&logoColor=B14BFF" alt="skills and tools">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&theme=dark" alt="web stack"><br>
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&theme=dark" alt="languages and tools">
-</p>
 
 ---
 
@@ -86,6 +63,7 @@ chanuka@github:~$ _
   <a href="https://github.com/ChanukaKavinda" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-05060F?style=for-the-badge&logo=github&logoColor=E8F6FF" alt="github">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=1B6BFF&style=for-the-badge&label=VIEWS">
 </p>
 
 ```console
