@@ -1,75 +1,98 @@
-<img src="glass-header.svg" width="100%" alt="Chanuka Kavinda — software engineering student">
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3AE7FF&center=true&vCenter=true&width=720&height=50&lines=software+engineering+student;learning+full-stack+development;active+learner+%2F+researcher;love+to+learn+new+stuff..." alt="typing intro">
-</p>
+###
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&theme=dark" alt="web stack"><br>
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&theme=dark" alt="languages and tools">
-</p>
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
----
+###
 
-<img src="https://img.shields.io/badge/%23%23%20%20about%20me-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="about me">
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding">
+###
 
-- 🔭 &nbsp;Currently working on **full-stack development** projects
-- 🌱 &nbsp;Currently learning **software engineering** practices
-- 👯 &nbsp;Looking to collaborate on **software engineering** work
-- 🤝 &nbsp;Looking for guidance from **professional developers**
-- 💬 &nbsp;Ask me about **full-stack development**
-- ⚡ &nbsp;Fun fact — I'm a self-taught learner who figures things out by building
+<p data-importer="text" align="left">🔭  Currently working on full-stack development projects<br>🌱  Currently learning software engineering practices<br>👯  Looking to collaborate on software engineering work<br>🤝  Looking for guidance from professional developers<br>💬  Ask me about full-stack development<br>⚡  Fun fact — I'm a self-taught learner who figures things out by building</p>
 
-<br clear="right">
+###
 
----
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/%23%23%20%20github%20stats-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="github stats">
+###
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChanukaKavinda&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3AE7FF&text_color=7FA6B8&icon_color=B14BFF" alt="github stats">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaKavinda&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3AE7FF&text_color=7FA6B8" alt="top languages">
-</p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-<p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=ChanukaKavinda&hide_border=true&background=00000000&stroke=3AE7FF55&ring=3AE7FF&fire=B14BFF&currStreakNum=E8F6FF&sideNums=E8F6FF&currStreakLabel=3AE7FF&sideLabels=7FA6B8&dates=7FA6B8" alt="streak">
-</p>
+###
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanukaKavinda&bg_color=00000000&color=E8F6FF&line=3AE7FF&point=B14BFF&area=true&area_color=1B6BFF&hide_border=true" alt="contribution graph">
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/ChanukaKavinda/ChanukaKavinda/snake-output/snake.svg" alt="Snake animation" />
 
----
+###
 
-<img src="https://img.shields.io/badge/%23%23%20%20trophies-05060F?style=for-the-badge&logo=gnubash&logoColor=B14BFF" alt="trophies">
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChanukaKavinda&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies">
-</p>
+###
 
----
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ChanukaKavinda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<img src="https://img.shields.io/badge/%23%23%20%20let%27s%20connect-05060F?style=for-the-badge&logo=gnubash&logoColor=3AE7FF" alt="let's connect">
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanuka-kavinda-6ba7732bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05060F?style=for-the-badge&logo=linkedin&logoColor=3AE7FF" alt="linkedin">
-  </a>
-  <a href="https://www.instagram.com/chanu_kavinda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-05060F?style=for-the-badge&logo=instagram&logoColor=B14BFF" alt="instagram">
-  </a>
-  <a href="https://github.com/ChanukaKavinda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-05060F?style=for-the-badge&logo=github&logoColor=E8F6FF" alt="github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ChanukaKavinda&color=1B6BFF&style=for-the-badge&label=VIEWS">
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/ChanukaKavinda/ChanukaKavinda/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/ChanukaKavinda/ChanukaKavinda/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-```console
-chanuka@github:~$ echo "thanks for stopping by"
-thanks for stopping by
+###
 
-chanuka@github:~$ exit
-> build · break · learn · repeat
-```
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ChanukaKavinda.ChanukaKavinda&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
